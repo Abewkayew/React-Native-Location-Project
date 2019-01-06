@@ -3,8 +3,7 @@
 ## Installation
 ### npm modules
 ```npm install```
-or
-```yarn```
+
 
 ### Pods
 ```cd ios && pod install```
